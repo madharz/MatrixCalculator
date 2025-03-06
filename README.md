@@ -11,7 +11,7 @@ Matrix Calculator
 Транспонування (для кожної матриці окремо)
 Як почати роботу з програмою
 1.Клонувати репозиторій:
-git clone https://github.com/NikitaTSB/PHP-Developer-Interview.git
+git clone git@github.com:madharz/MatrixCalculator.git
 2.Перейти в директорію проекту
 3.Запустити php -S localhost:8000 -t.
 4.В браузері в строці запиту виконати http://localhost:8000/index.php
